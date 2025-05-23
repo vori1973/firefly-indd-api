@@ -14,7 +14,7 @@ dist/
 output/
 
 #resources files
-resources/
+#resources/
 
 # Compiled Java class files
 *.class

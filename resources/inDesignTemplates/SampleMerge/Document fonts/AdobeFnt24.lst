@@ -1,0 +1,66 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/AdobeFnt24.lst
+FileLength:1440
+FileModTime:768794648
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:767593046
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionVariableConcept-Roman
+FamilyName:Minion Variable Concept
+StyleName:Roman
+MenuName:Minion Variable Concept
+FamilyPrefix:MinionConceptRoman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Variable Concept Roman
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/MinionVariableConcept-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:CFF2VariableFont
+FileLength:298864
+FileModTime:767593046
+NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+
