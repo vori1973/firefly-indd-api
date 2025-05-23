@@ -11,7 +11,9 @@ node_modules/
 dist/
 
 #output files
-output/
+output/*
+# But keep the output/ folder itself
+!output/.gitkeep
 
 #resources files
 #resources/
