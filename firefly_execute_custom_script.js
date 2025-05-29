@@ -31,7 +31,7 @@ async function executeCustomScript({ scriptUrl, inddKey, fontPrefix, linksPrefix
   };
 
 
-  const fontAssets = await generateAssetEntriesFromS3Prefix(fontPrefix, ['ttf', 'otf', 'lst'], 'fonts');
+  const fontAssets = await generateAssetEntriesFromS3Prefix(fontPrefix, ['ttf', 'otf', 'lst'], 'Document Fonts');
   const linksAssets = await generateAssetEntriesFromS3Prefix(linksPrefix, ['jpg', 'jpeg', 'png', 'psd', 'tif', 'ai'], 'Links');
 
   const headers = {

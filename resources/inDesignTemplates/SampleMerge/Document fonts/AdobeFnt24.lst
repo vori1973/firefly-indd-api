@@ -5,8 +5,8 @@
 Handler:DirectoryHandler
 FontType:Invalid
 OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/AdobeFnt24.lst
-FileLength:1440
-FileModTime:768794648
+FileLength:1602
+FileModTime:769629442
 %EndFont
 
 %BeginFont
@@ -62,5 +62,111 @@ VariableFontType:CFF2VariableFont
 FileLength:298864
 FileModTime:767593046
 NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Sortefax
+FamilyName:Sortefax
+StyleName:Medium
+MenuName:Sortefax
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Sortefax
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/Sortefax-m33x.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:315088
+FileModTime:770115834
+NameArray:0,Mac,4,Sortefax
+NameArray:0,Win,1,Sortefax
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SortefaxS01
+FamilyName:SortefaxS01
+StyleName:Medium
+MenuName:SortefaxS01
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:SortefaxS01
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/Sortefaxs01-djj6.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:206208
+FileModTime:770115834
+NameArray:0,Mac,4,SortefaxS01
+NameArray:0,Win,1,SortefaxS01
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SortefaxS02
+FamilyName:SortefaxS02
+StyleName:Medium
+MenuName:SortefaxS02
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:SortefaxS02
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/Sortefaxs02-P22g.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:562484
+FileModTime:770115834
+NameArray:0,Mac,4,SortefaxS02
+NameArray:0,Win,1,SortefaxS02
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SuperShiny
+FamilyName:Super Shiny
+StyleName:Regular
+MenuName:Super Shiny
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Super Shiny
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/SampleMerge/Document fonts/SuperShiny-0v0rG.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:147796
+FileModTime:768445260
+NameArray:0,Mac,4,Super Shiny
+NameArray:0,Win,1,Super Shiny
 %EndFont
 

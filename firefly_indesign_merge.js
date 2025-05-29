@@ -23,7 +23,7 @@
     const fontAssets = await generateAssetEntriesFromS3Prefix(
       fontFolder,
       ['ttf', 'otf', 'lst'],
-      'Document fonts'
+      'Document Fonts'
     );
     
     const imageAssets = await generateAssetEntriesFromS3Prefix(
@@ -38,7 +38,7 @@
       'Links'
     );
     const assets = [
-      { source: { url: inddUrl , storageType:"Aws"}, destination: 'template.indd' },
+      { source: { url: inddUrl }, destination: 'template.indd' },
       { source: { url: dataFileUrl }, destination: 'data.csv' },
       ...fontAssets,
       ...linksAssets,
@@ -50,7 +50,7 @@
       params: {
         generalSettings: {
             "fonts": {
-                "fontsDirectories": []
+                "fontsDirectories": ["Document Fonts"]
             },
             "adobeFonts": {
                     "includeDocuments": []

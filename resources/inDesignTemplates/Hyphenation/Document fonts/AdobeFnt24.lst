@@ -4,9 +4,25 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/igorvorobeychik/Downloads/Hyphenation/Document fonts/AdobeFnt24.lst
-FileLength:1461
-FileModTime:769629352
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/.DS_Store
+FileLength:6148
+FileModTime:770143526
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/AdobeFnt24 copy.lst
+FileLength:3985
+FileModTime:770143283
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/AdobeFnt24.lst
+FileLength:1440
+FileModTime:769637906
 %EndFont
 
 %BeginFont
@@ -22,7 +38,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/igorvorobeychik/Downloads/Hyphenation/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/MinionPro-Regular copy.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -31,7 +47,35 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:218640
-FileModTime:767593046
+FileModTime:770143283
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:769107362
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
@@ -51,7 +95,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Variable Concept Roman
 WritingScript:Roman
-OutlineFileName:/Users/igorvorobeychik/Downloads/Hyphenation/Document fonts/MinionVariableConcept-Roman.otf
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/MinionVariableConcept-Roman.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -60,7 +104,113 @@ hasSBIX:no
 hasCOLR:no
 VariableFontType:CFF2VariableFont
 FileLength:298864
-FileModTime:767593046
+FileModTime:770143283
 NameArray:0,Win,1,Minion Variable Concept
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Sortefax
+FamilyName:Sortefax
+StyleName:Medium
+MenuName:Sortefax
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Sortefax
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/Sortefax-m33x.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:315088
+FileModTime:770143283
+NameArray:0,Mac,4,Sortefax
+NameArray:0,Win,1,Sortefax
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SortefaxS01
+FamilyName:SortefaxS01
+StyleName:Medium
+MenuName:SortefaxS01
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:SortefaxS01
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/Sortefaxs01-djj6.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:206208
+FileModTime:770143283
+NameArray:0,Mac,4,SortefaxS01
+NameArray:0,Win,1,SortefaxS01
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SortefaxS02
+FamilyName:SortefaxS02
+StyleName:Medium
+MenuName:SortefaxS02
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:SortefaxS02
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/Sortefaxs02-P22g.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:562484
+FileModTime:770143283
+NameArray:0,Mac,4,SortefaxS02
+NameArray:0,Win,1,SortefaxS02
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SuperShiny
+FamilyName:Super Shiny
+StyleName:Regular
+MenuName:Super Shiny
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Super Shiny
+WritingScript:Roman
+OutlineFileName:/Users/igorvorobeychik/Documents/Projects/firefly-indd-api/resources/inDesignTemplates/Hyphenation/Document fonts/SuperShiny-0v0rG.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:147796
+FileModTime:770143283
+NameArray:0,Mac,4,Super Shiny
+NameArray:0,Win,1,Super Shiny
 %EndFont
 

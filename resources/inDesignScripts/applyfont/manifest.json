@@ -1,0 +1,17 @@
+{
+    "manifestVersion": "1.0.0", 
+    "name": "applyfont", 
+    "host": {
+        "app": "indesign", 
+        "maxVersion": "99.9.9", 
+        "minVersion": "16.0.1"
+    }, 
+    "version": "1.0.28", 
+    "apiEntryPoints": [
+        {
+            "path": "applyFont.jsx", 
+            "type": "capability", 
+            "language": "extendscript"
+        }
+    ]
+}
